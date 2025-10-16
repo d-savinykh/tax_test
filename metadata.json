@@ -1,0 +1,5 @@
+{
+  "name": "Tax Planner 2026",
+  "description": "A tax calculator application to compare different Russian tax regimes (PSN, USN, AUSN) for the year 2026, considering the VAT rules. Users can input revenue and expenses to see a comparison and find the most optimal tax scenario.",
+  "requestFramePermissions": []
+}
